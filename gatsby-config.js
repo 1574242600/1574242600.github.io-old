@@ -33,6 +33,7 @@ module.exports = {
                                 url
                                 title
                                 description
+                                site_url: url
                             }
                         }
                     }
@@ -75,6 +76,7 @@ module.exports = {
                         output: "/rss.xml",
                         title: "Nworm",
                         match: "^/post/",
+                        language: "zh-cn"
                     },
                 ],
             },
