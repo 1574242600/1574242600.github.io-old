@@ -12,7 +12,7 @@ module.exports = {
         author: "nworm",
         description: "一条咸鱼",
         since: "2019-06-21T11:30:00.000Z",
-        avatar: "//q1.qlogo.cn/g?b=qq&nk=1574242600&s=640",
+        avatar: "//img.nworm.icu/avatar.jpg",
         contacts: [
             { name: "github", id: "1574242600" },
             { name: "telegram", id: "nworm1574" },
