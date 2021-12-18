@@ -1,7 +1,7 @@
 ---
 title: '关于'
 ---
-写于 2021 2 23 v1.0.1
+写于 2021 2 23 v1.0.2
 
 您好，欢迎来到关于页面<!--毕竟多数情况是看一眼就关-->，我是Nworm，一个不大擅长社交的<!--死-->肥宅。  
 
@@ -35,28 +35,10 @@ ps: “现在”就只写这么点吧，因为2020不那么好写，2021目前�
 - tg: [nworm1574](https://t.me/nworm1574)
 - discord(不常用): Nworm#2729
 - mail: xiaosi1574#gmail.com  
-- pgp: 23F7FB7855B41D8A
+- pgp: 3FF22E0DA5AA90AD
 
 提个醒,密钥服务器有个冒充我的,outlook的邮箱。  
-id为2AEAC75701B467EB的密钥也是我的,不过目前只用于 git commit。     
-
-pgp: 
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
-
-mDMEYCfzExYJKwYBBAHaRw8BAQdAXh1su0ouIbaqYDXIJgFk3iqpOX2KiJAqZTZU
-3rSAEYO0JU53b3JtICjpgq7ku7YpIDx4aWFvc2kxNTc0QGdtYWlsLmNvbT6IlgQT
-FggAPhYhBGCWxkxRaGNSviXV9yP3+3hVtB2KBQJgJ/MTAhsDBQkDwmcABQsJCAcC
-BhUKCQgLAgQWAgMBAh4BAheAAAoJECP3+3hVtB2KbYoA/iTUmHCTB+IwD4rTTUz1
-OaA0FktzPGnv0UeBVM4KOrVNAP9fJeKvghrONREahTsS94UaSfWobtEEh2ksS4iZ
-NRJRALg4BGAn8xMSCisGAQQBl1UBBQEBB0DT93J8gpsV9IBKqoSmOPSVCW1Z9YlS
-pZhf0VnXMIwOLgMBCAeIfgQYFggAJhYhBGCWxkxRaGNSviXV9yP3+3hVtB2KBQJg
-J/MTAhsMBQkDwmcAAAoJECP3+3hVtB2KDg8BAIE+shoqzyKhAQmGo3umere8smwn
-siLVRFv9vg2juO+jAQDLOqWf52BivElSQ8VBt47cFkycEut2wfJ8cTfLqkI8AA==
-=UA/h
------END PGP PUBLIC KEY BLOCK-----
-
-```
+id为2AEAC75701B467EB的密钥也是我的,不过只用于 git commit。     
 
 ## 关于友链
 只要不是那种喜欢盗文章的和会让我被叫去喝茶的就行。
