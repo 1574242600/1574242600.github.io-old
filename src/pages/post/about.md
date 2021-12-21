@@ -26,7 +26,7 @@ ps: “现在”就只写这么点吧，因为2020不那么好写，2021目前�
 
 - qq: 1574242600
 - tg: [nworm1574](https://t.me/nworm1574)
-- mail: xiaosi1574#gmail.com  
+- mail: admin#nworm.icu (如果可以，请尽量使用国外邮箱。国内邮箱发信老是被 Google 判断为垃圾邮件）
 - pgp: 3FF22E0DA5AA90AD
 
 ## 关于友链
